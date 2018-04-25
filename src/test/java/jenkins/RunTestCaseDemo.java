@@ -30,6 +30,8 @@ public class RunTestCaseDemo {
 		int number = rand.nextInt(999999) + 1;
 		System.out.println(number);
 		return number;
+		
+		//check
 	}
 
 	@AfterClass
